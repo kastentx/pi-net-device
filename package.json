@@ -3,9 +3,9 @@
   "description": "A Node-RED Project",
   "version": "0.0.1",
   "dependencies": {
+    "node-red-contrib-audio-classifier": "^0.1.0",
     "node-red-contrib-ibm-watson-iot": "~0.2.8",
     "node-red-contrib-image-output": "~0.3.0",
-    "node-red-contrib-model-asset-exchange": "~0.1.2",
     "node-red-node-pi-sense-hat": "0.0.18"
   }
 }
